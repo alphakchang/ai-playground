@@ -7,4 +7,4 @@ if __name__ == '__main__':
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('new_index.html')
